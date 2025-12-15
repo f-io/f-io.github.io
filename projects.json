@@ -6,7 +6,7 @@
     "homepage": "https://f-io.github.io/pi-carplay/",
     "description": "CarPlay & Android Auto on Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video + low-latency audio.",
     "language": "TypeScript",
-    "type": null,
+    "types": [],
     "stargazers_count": 81,
     "updated_at": "2025-12-15T10:15:16Z"
   },
@@ -17,9 +17,12 @@
     "homepage": "",
     "description": "Home Assistant integration for Tylö / Tylo, Helo and other sauna heaters via RS485.",
     "language": "C++",
-    "type": null,
+    "types": [
+      "IoT",
+      "RS485"
+    ],
     "stargazers_count": 14,
-    "updated_at": "2025-12-11T08:44:04Z"
+    "updated_at": "2025-12-15T13:30:56Z"
   },
   {
     "name": "dspCore",
@@ -28,9 +31,12 @@
     "homepage": "",
     "description": "DSP with balanced 2-in / 6-out as well as support for I2S, SPDIF and TDM. ADAU1452 / ADAU1462 / ADAU1466",
     "language": null,
-    "type": "PCB",
+    "types": [
+      "PCB",
+      "DSP"
+    ],
     "stargazers_count": 10,
-    "updated_at": "2025-12-15T11:08:30Z"
+    "updated_at": "2025-12-15T13:33:34Z"
   },
   {
     "name": "RUTX-SSL",
@@ -39,7 +45,7 @@
     "homepage": "",
     "description": "Script to use ACME.sh on Teltonika (OpenWRT) devices to get valid ssl certificates",
     "language": "Shell",
-    "type": null,
+    "types": [],
     "stargazers_count": 3,
     "updated_at": "2025-03-29T16:41:31Z"
   },
@@ -50,7 +56,7 @@
     "homepage": "",
     "description": "Scrip to track your Teltonika device within your private nextcloud",
     "language": "Shell",
-    "type": null,
+    "types": [],
     "stargazers_count": 2,
     "updated_at": "2025-08-02T17:26:48Z"
   },
@@ -61,9 +67,9 @@
     "homepage": "https://f-io.github.io/",
     "description": "Public landing page",
     "language": "JavaScript",
-    "type": null,
+    "types": [],
     "stargazers_count": 0,
-    "updated_at": "2025-12-15T12:29:34Z"
+    "updated_at": "2025-12-15T13:39:06Z"
   },
   {
     "name": "miele-m636ec",
@@ -72,9 +78,11 @@
     "homepage": "",
     "description": "Miele M636EC replacement Keypad",
     "language": null,
-    "type": "PCB",
+    "types": [
+      "PCB"
+    ],
     "stargazers_count": 0,
-    "updated_at": "2025-12-15T10:53:02Z"
+    "updated_at": "2025-12-15T13:34:11Z"
   },
   {
     "name": "RUTX-DYNDNS-HETZNER",
@@ -83,7 +91,7 @@
     "homepage": "",
     "description": "Script for using Hetzner as a dyndns service on Teltonika RUTX (OpenWRT) devices",
     "language": "Shell",
-    "type": null,
+    "types": [],
     "stargazers_count": 0,
     "updated_at": "2025-01-24T08:22:17Z"
   },
@@ -94,9 +102,13 @@
     "homepage": "",
     "description": "Configuration file for Telegraf to collect metrics from a WAGO 879 device using Modbus",
     "language": null,
-    "type": "Modbus",
+    "types": [
+      "Modbus",
+      "Telegraf",
+      "InfluxDB"
+    ],
     "stargazers_count": 0,
-    "updated_at": "2025-12-15T11:11:54Z"
+    "updated_at": "2025-12-15T13:37:05Z"
   },
   {
     "name": "ZY-ZHPS01-mmWave-sensor",
@@ -105,8 +117,10 @@
     "homepage": "",
     "description": "ZY-ZHPS01 5.8 GHz mmWave sensor with upgraded ESP32 hardware, flashed with Tasmota firmware for enhanced functionality",
     "language": null,
-    "type": "IoT",
+    "types": [
+      "IoT"
+    ],
     "stargazers_count": 0,
-    "updated_at": "2025-12-15T11:10:12Z"
+    "updated_at": "2025-12-15T13:31:48Z"
   }
 ]

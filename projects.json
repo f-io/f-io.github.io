@@ -45,9 +45,11 @@
     "homepage": "",
     "description": "Script to use ACME.sh on Teltonika (OpenWRT) devices to get valid ssl certificates",
     "language": "Shell",
-    "types": [],
+    "types": [
+      "OpenWrt"
+    ],
     "stargazers_count": 3,
-    "updated_at": "2025-03-29T16:41:31Z"
+    "updated_at": "2025-12-15T13:43:48Z"
   },
   {
     "name": "RUTX-GPS",
@@ -56,9 +58,11 @@
     "homepage": "",
     "description": "Scrip to track your Teltonika device within your private nextcloud",
     "language": "Shell",
-    "types": [],
+    "types": [
+      "OpenWrt"
+    ],
     "stargazers_count": 2,
-    "updated_at": "2025-08-02T17:26:48Z"
+    "updated_at": "2025-12-15T13:43:43Z"
   },
   {
     "name": "f-io.github.io",
@@ -69,7 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2025-12-15T13:39:06Z"
+    "updated_at": "2025-12-15T13:39:18Z"
   },
   {
     "name": "miele-m636ec",
@@ -91,9 +95,11 @@
     "homepage": "",
     "description": "Script for using Hetzner as a dyndns service on Teltonika RUTX (OpenWRT) devices",
     "language": "Shell",
-    "types": [],
+    "types": [
+      "OpenWrt"
+    ],
     "stargazers_count": 0,
-    "updated_at": "2025-01-24T08:22:17Z"
+    "updated_at": "2025-12-15T13:43:37Z"
   },
   {
     "name": "wago-879-modbus-telegraf",

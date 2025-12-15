@@ -1,0 +1,154 @@
+[
+  {
+    "name": "LIVI",
+    "full_name": "f-io/LIVI",
+    "html_url": "https://github.com/f-io/LIVI",
+    "homepage": "https://f-io.github.io/LIVI/",
+    "description": "CarPlay & Android Auto head unit for Linux (ARM/x64) and macOS (ARM/x64). Native CarPlay as well as Android Auto implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.",
+    "language": "TypeScript",
+    "types": [],
+    "stargazers_count": 500,
+    "updated_at": "2026-07-28T08:16:36Z"
+  },
+  {
+    "name": "esphome-tylo",
+    "full_name": "f-io/esphome-tylo",
+    "html_url": "https://github.com/f-io/esphome-tylo",
+    "homepage": "",
+    "description": "Home Assistant integration for Tylo Helo sauna heaters via RS485",
+    "language": "C++",
+    "types": [
+      "IoT",
+      "RS485"
+    ],
+    "stargazers_count": 23,
+    "updated_at": "2026-04-15T11:30:55Z"
+  },
+  {
+    "name": "dspCore",
+    "full_name": "f-io/dspCore",
+    "html_url": "https://github.com/f-io/dspCore",
+    "homepage": "",
+    "description": "DSP with balanced 2-in / 6-out as well as support for I2S, SPDIF and TDM. ADAU1452 / ADAU1462 / ADAU1466",
+    "language": null,
+    "types": [
+      "PCB",
+      "DSP"
+    ],
+    "stargazers_count": 15,
+    "updated_at": "2026-05-19T11:23:53Z"
+  },
+  {
+    "name": "RUTX-SSL",
+    "full_name": "f-io/RUTX-SSL",
+    "html_url": "https://github.com/f-io/RUTX-SSL",
+    "homepage": "",
+    "description": "Script to use acme.sh on Teltonika (OpenWrt) devices to obtain valid SSL certificates",
+    "language": "Shell",
+    "types": [
+      "OpenWrt"
+    ],
+    "stargazers_count": 3,
+    "updated_at": "2025-12-23T11:15:06Z"
+  },
+  {
+    "name": "RUTX-GPS",
+    "full_name": "f-io/RUTX-GPS",
+    "html_url": "https://github.com/f-io/RUTX-GPS",
+    "homepage": "",
+    "description": "Script to track your Teltonika (OpenWrt) device in your private Nextcloud",
+    "language": "Shell",
+    "types": [
+      "OpenWrt"
+    ],
+    "stargazers_count": 2,
+    "updated_at": "2025-12-23T11:13:26Z"
+  },
+  {
+    "name": "pi-carplay",
+    "full_name": "f-io/pi-carplay",
+    "html_url": "https://github.com/f-io/pi-carplay",
+    "homepage": "https://github.com/f-io/LIVI",
+    "description": "This project has moved",
+    "language": null,
+    "types": [],
+    "stargazers_count": 1,
+    "updated_at": "2026-01-24T10:12:14Z"
+  },
+  {
+    "name": "f-io.github.io",
+    "full_name": "f-io/f-io.github.io",
+    "html_url": "https://github.com/f-io/f-io.github.io",
+    "homepage": "https://f-io.github.io",
+    "description": "Public landing page",
+    "language": "JavaScript",
+    "types": [],
+    "stargazers_count": 0,
+    "updated_at": "2026-07-27T15:15:59Z"
+  },
+  {
+    "name": "ffmpeg-bundles",
+    "full_name": "f-io/ffmpeg-bundles",
+    "html_url": "https://github.com/f-io/ffmpeg-bundles",
+    "homepage": "",
+    "description": "minimal FFmpeg/FFplay binary bundles for application embedding (macOS arm64, Windows x64).",
+    "language": null,
+    "types": [],
+    "stargazers_count": 0,
+    "updated_at": "2026-03-16T16:44:50Z"
+  },
+  {
+    "name": "miele-m636ec",
+    "full_name": "f-io/miele-m636ec",
+    "html_url": "https://github.com/f-io/miele-m636ec",
+    "homepage": "",
+    "description": "Miele M636EC replacement Keypad",
+    "language": null,
+    "types": [
+      "PCB"
+    ],
+    "stargazers_count": 0,
+    "updated_at": "2025-12-15T13:34:11Z"
+  },
+  {
+    "name": "RUTX-DYNDNS-HETZNER",
+    "full_name": "f-io/RUTX-DYNDNS-HETZNER",
+    "html_url": "https://github.com/f-io/RUTX-DYNDNS-HETZNER",
+    "homepage": "",
+    "description": "Script for using Hetzner as a DynDNS service on Teltonika (OpenWrt) devices",
+    "language": "Shell",
+    "types": [
+      "OpenWrt"
+    ],
+    "stargazers_count": 0,
+    "updated_at": "2025-12-23T11:14:30Z"
+  },
+  {
+    "name": "wago-879-modbus-telegraf",
+    "full_name": "f-io/wago-879-modbus-telegraf",
+    "html_url": "https://github.com/f-io/wago-879-modbus-telegraf",
+    "homepage": "",
+    "description": "Configuration file for Telegraf to collect metrics from a WAGO 879 device using Modbus",
+    "language": null,
+    "types": [
+      "Modbus",
+      "Telegraf",
+      "InfluxDB"
+    ],
+    "stargazers_count": 0,
+    "updated_at": "2025-12-15T13:37:05Z"
+  },
+  {
+    "name": "ZY-ZHPS01-mmWave-sensor",
+    "full_name": "f-io/ZY-ZHPS01-mmWave-sensor",
+    "html_url": "https://github.com/f-io/ZY-ZHPS01-mmWave-sensor",
+    "homepage": "",
+    "description": "ZY-ZHPS01 5.8 GHz mmWave sensor with upgraded ESP32 hardware, flashed with Tasmota firmware for enhanced functionality",
+    "language": null,
+    "types": [
+      "IoT"
+    ],
+    "stargazers_count": 0,
+    "updated_at": "2025-12-15T13:31:48Z"
+  }
+]

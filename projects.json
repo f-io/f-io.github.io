@@ -7,22 +7,22 @@
     "description": "CarPlay & Android Auto on Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video + low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 83,
-    "updated_at": "2025-12-16T17:01:30Z"
+    "stargazers_count": 85,
+    "updated_at": "2025-12-18T18:14:41Z"
   },
   {
     "name": "esphome-tylo",
     "full_name": "f-io/esphome-tylo",
     "html_url": "https://github.com/f-io/esphome-tylo",
     "homepage": "",
-    "description": "Home Assistant integration for Tylö / Tylo, Helo and other sauna heaters via RS485.",
+    "description": "Home Assistant integration for Tylö, Helo and other sauna heaters via RS485.",
     "language": "C++",
     "types": [
       "IoT",
       "RS485"
     ],
     "stargazers_count": 14,
-    "updated_at": "2025-12-15T13:30:56Z"
+    "updated_at": "2025-12-18T18:20:04Z"
   },
   {
     "name": "dspCore",
@@ -73,7 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2025-12-15T18:13:13Z"
+    "updated_at": "2025-12-16T20:51:53Z"
   },
   {
     "name": "miele-m636ec",

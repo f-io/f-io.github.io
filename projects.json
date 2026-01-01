@@ -15,14 +15,14 @@
     "full_name": "f-io/esphome-tylo",
     "html_url": "https://github.com/f-io/esphome-tylo",
     "homepage": "",
-    "description": "Home Assistant integration for Tylö Helo sauna heaters via RS485",
+    "description": "Home Assistant integration for Tylo Helo sauna heaters via RS485",
     "language": "C++",
     "types": [
       "IoT",
       "RS485"
     ],
     "stargazers_count": 14,
-    "updated_at": "2025-12-23T11:15:35Z"
+    "updated_at": "2025-12-29T00:28:25Z"
   },
   {
     "name": "dspCore",
@@ -73,7 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2025-12-25T11:10:44Z"
+    "updated_at": "2025-12-29T00:24:31Z"
   },
   {
     "name": "miele-m636ec",

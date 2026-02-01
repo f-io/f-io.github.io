@@ -7,8 +7,8 @@
     "description": "CarPlay & Android Auto on Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video + low-latency audio",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 104,
-    "updated_at": "2026-01-22T22:36:50Z"
+    "stargazers_count": 107,
+    "updated_at": "2026-01-31T23:46:03Z"
   },
   {
     "name": "esphome-tylo",
@@ -22,7 +22,7 @@
       "RS485"
     ],
     "stargazers_count": 14,
-    "updated_at": "2026-01-01T14:37:03Z"
+    "updated_at": "2026-01-27T18:47:29Z"
   },
   {
     "name": "dspCore",
@@ -65,6 +65,17 @@
     "updated_at": "2025-12-23T11:13:26Z"
   },
   {
+    "name": "pi-carplay",
+    "full_name": "f-io/pi-carplay",
+    "html_url": "https://github.com/f-io/pi-carplay",
+    "homepage": "https://github.com/f-io/LIVI",
+    "description": "This project has moved",
+    "language": null,
+    "types": [],
+    "stargazers_count": 1,
+    "updated_at": "2026-01-24T10:12:14Z"
+  },
+  {
     "name": "f-io.github.io",
     "full_name": "f-io/f-io.github.io",
     "html_url": "https://github.com/f-io/f-io.github.io",
@@ -73,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-01-17T01:02:04Z"
+    "updated_at": "2026-01-22T22:46:15Z"
   },
   {
     "name": "miele-m636ec",
@@ -87,17 +98,6 @@
     ],
     "stargazers_count": 0,
     "updated_at": "2025-12-15T13:34:11Z"
-  },
-  {
-    "name": "pi-carplay",
-    "full_name": "f-io/pi-carplay",
-    "html_url": "https://github.com/f-io/pi-carplay",
-    "homepage": "",
-    "description": null,
-    "language": null,
-    "types": [],
-    "stargazers_count": 0,
-    "updated_at": "2026-01-22T14:57:32Z"
   },
   {
     "name": "RUTX-DYNDNS-HETZNER",

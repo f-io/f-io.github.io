@@ -7,8 +7,8 @@
     "description": "CarPlay and Android Auto on Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video + low-latency audio",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 120,
-    "updated_at": "2026-02-09T10:32:08Z"
+    "stargazers_count": 121,
+    "updated_at": "2026-02-12T23:48:32Z"
   },
   {
     "name": "esphome-tylo",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-02-07T16:10:45Z"
+    "updated_at": "2026-02-09T14:04:31Z"
   },
   {
     "name": "miele-m636ec",

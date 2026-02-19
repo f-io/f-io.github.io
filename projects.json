@@ -4,11 +4,11 @@
     "full_name": "f-io/LIVI",
     "html_url": "https://github.com/f-io/LIVI",
     "homepage": "https://f-io.github.io/LIVI/",
-    "description": "CarPlay and Android Auto on Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video + low-latency audio",
+    "description": "Carplay and Android Auto head unit for Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 122,
-    "updated_at": "2026-02-17T20:40:37Z"
+    "stargazers_count": 123,
+    "updated_at": "2026-02-19T11:42:08Z"
   },
   {
     "name": "esphome-tylo",
@@ -79,12 +79,12 @@
     "name": "f-io.github.io",
     "full_name": "f-io/f-io.github.io",
     "html_url": "https://github.com/f-io/f-io.github.io",
-    "homepage": "https://f-io.github.io/",
+    "homepage": "https://f-io.github.io",
     "description": "Public landing page",
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-02-17T15:44:47Z"
+    "updated_at": "2026-02-18T13:53:49Z"
   },
   {
     "name": "miele-m636ec",

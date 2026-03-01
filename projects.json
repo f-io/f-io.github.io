@@ -7,8 +7,8 @@
     "description": "Carplay and Android Auto head unit for Linux (ARM/x86) and macOS (ARM) using Carlinkit dongles. Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 130,
-    "updated_at": "2026-02-27T21:17:27Z"
+    "stargazers_count": 131,
+    "updated_at": "2026-03-01T10:56:15Z"
   },
   {
     "name": "esphome-tylo",
@@ -84,7 +84,18 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-02-27T12:09:57Z"
+    "updated_at": "2026-02-27T22:52:23Z"
+  },
+  {
+    "name": "ffmpeg-bundles",
+    "full_name": "f-io/ffmpeg-bundles",
+    "html_url": "https://github.com/f-io/ffmpeg-bundles",
+    "homepage": "",
+    "description": "minimal FFmpeg/FFplay binary bundles for application embedding (macOS arm64, Windows x64).",
+    "language": null,
+    "types": [],
+    "stargazers_count": 0,
+    "updated_at": "2026-03-01T01:22:04Z"
   },
   {
     "name": "miele-m636ec",

@@ -3,7 +3,7 @@ name: Update projects.json
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 12 1 * *" # monthly
+    - cron: "17 12 * * 1"
   push:
     branches: [ main ]
     paths:

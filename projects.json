@@ -4,11 +4,11 @@
     "full_name": "f-io/LIVI",
     "html_url": "https://github.com/f-io/LIVI",
     "homepage": "https://f-io.github.io/LIVI/",
-    "description": "Carplay and Android Auto head unit for Linux (ARM/x86), macOS (ARM) and Windows (x86) using Carlinkit dongles. Hardware-accelerated video and low-latency audio.",
+    "description": "Carplay and Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64) using Carlinkit dongles. Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 145,
-    "updated_at": "2026-03-22T17:12:43Z"
+    "stargazers_count": 150,
+    "updated_at": "2026-03-30T01:46:10Z"
   },
   {
     "name": "esphome-tylo",
@@ -21,8 +21,8 @@
       "IoT",
       "RS485"
     ],
-    "stargazers_count": 20,
-    "updated_at": "2026-03-12T13:41:31Z"
+    "stargazers_count": 21,
+    "updated_at": "2026-03-29T01:39:37Z"
   },
   {
     "name": "dspCore",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-03-22T17:25:03Z"
+    "updated_at": "2026-03-23T13:49:57Z"
   },
   {
     "name": "ffmpeg-bundles",

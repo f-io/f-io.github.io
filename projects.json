@@ -7,8 +7,8 @@
     "description": "Carplay and Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64) using Carlinkit dongles. Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 171,
-    "updated_at": "2026-04-23T08:54:36Z"
+    "stargazers_count": 174,
+    "updated_at": "2026-04-27T11:10:37Z"
   },
   {
     "name": "esphome-tylo",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-04-20T14:12:38Z"
+    "updated_at": "2026-04-24T10:53:26Z"
   },
   {
     "name": "ffmpeg-bundles",

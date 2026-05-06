@@ -7,8 +7,8 @@
     "description": "Carplay and Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 177,
-    "updated_at": "2026-05-03T23:21:14Z"
+    "stargazers_count": 180,
+    "updated_at": "2026-05-06T17:20:33Z"
   },
   {
     "name": "esphome-tylo",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-04-27T14:30:27Z"
+    "updated_at": "2026-05-04T14:34:28Z"
   },
   {
     "name": "ffmpeg-bundles",

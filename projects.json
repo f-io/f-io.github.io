@@ -7,8 +7,8 @@
     "description": "Carplay and Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 192,
-    "updated_at": "2026-05-18T11:24:45Z"
+    "stargazers_count": 221,
+    "updated_at": "2026-05-20T20:30:10Z"
   },
   {
     "name": "esphome-tylo",
@@ -35,8 +35,8 @@
       "PCB",
       "DSP"
     ],
-    "stargazers_count": 14,
-    "updated_at": "2026-03-11T13:34:38Z"
+    "stargazers_count": 15,
+    "updated_at": "2026-05-19T11:23:53Z"
   },
   {
     "name": "RUTX-SSL",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-05-11T15:46:55Z"
+    "updated_at": "2026-05-18T15:56:19Z"
   },
   {
     "name": "ffmpeg-bundles",

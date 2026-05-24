@@ -4,11 +4,11 @@
     "full_name": "f-io/LIVI",
     "html_url": "https://github.com/f-io/LIVI",
     "homepage": "https://f-io.github.io/LIVI/",
-    "description": "Carplay and Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Hardware-accelerated video and low-latency audio.",
+    "description": "CarPlay & Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Full AA protocol implementation (wired + wireless). Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 252,
-    "updated_at": "2026-05-21T16:25:13Z"
+    "stargazers_count": 285,
+    "updated_at": "2026-05-24T17:33:32Z"
   },
   {
     "name": "esphome-tylo",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-05-21T10:16:39Z"
+    "updated_at": "2026-05-21T17:00:03Z"
   },
   {
     "name": "ffmpeg-bundles",

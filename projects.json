@@ -7,8 +7,8 @@
     "description": "CarPlay & Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Full AA protocol implementation (wired + wireless). Hardware-accelerated video and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 290,
-    "updated_at": "2026-05-26T07:44:50Z"
+    "stargazers_count": 301,
+    "updated_at": "2026-05-28T14:59:21Z"
   },
   {
     "name": "esphome-tylo",
@@ -84,7 +84,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-05-25T15:28:28Z"
+    "updated_at": "2026-05-26T07:49:12Z"
   },
   {
     "name": "ffmpeg-bundles",

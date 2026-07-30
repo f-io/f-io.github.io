@@ -7,8 +7,8 @@
     "description": "CarPlay & Android Auto head unit for Linux (ARM/x64) and macOS (ARM/x64). Native CarPlay as well as Android Auto implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 500,
-    "updated_at": "2026-07-28T08:16:36Z"
+    "stargazers_count": 509,
+    "updated_at": "2026-07-30T20:45:20Z"
   },
   {
     "name": "esphome-tylo",
@@ -49,7 +49,7 @@
       "OpenWrt"
     ],
     "stargazers_count": 3,
-    "updated_at": "2025-12-23T11:15:06Z"
+    "updated_at": "2026-07-29T15:24:56Z"
   },
   {
     "name": "RUTX-GPS",
@@ -62,18 +62,7 @@
       "OpenWrt"
     ],
     "stargazers_count": 2,
-    "updated_at": "2025-12-23T11:13:26Z"
-  },
-  {
-    "name": "pi-carplay",
-    "full_name": "f-io/pi-carplay",
-    "html_url": "https://github.com/f-io/pi-carplay",
-    "homepage": "https://github.com/f-io/LIVI",
-    "description": "This project has moved",
-    "language": null,
-    "types": [],
-    "stargazers_count": 1,
-    "updated_at": "2026-01-24T10:12:14Z"
+    "updated_at": "2026-07-29T15:15:52Z"
   },
   {
     "name": "f-io.github.io",
@@ -84,18 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-07-27T15:15:59Z"
-  },
-  {
-    "name": "ffmpeg-bundles",
-    "full_name": "f-io/ffmpeg-bundles",
-    "html_url": "https://github.com/f-io/ffmpeg-bundles",
-    "homepage": "",
-    "description": "minimal FFmpeg/FFplay binary bundles for application embedding (macOS arm64, Windows x64).",
-    "language": null,
-    "types": [],
-    "stargazers_count": 0,
-    "updated_at": "2026-03-16T16:44:50Z"
+    "updated_at": "2026-07-28T09:52:57Z"
   },
   {
     "name": "miele-m636ec",
@@ -121,7 +99,7 @@
       "OpenWrt"
     ],
     "stargazers_count": 0,
-    "updated_at": "2025-12-23T11:14:30Z"
+    "updated_at": "2026-07-29T19:54:46Z"
   },
   {
     "name": "wago-879-modbus-telegraf",

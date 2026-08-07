@@ -7,8 +7,8 @@
     "description": "CarPlay & Android Auto head unit for Linux (ARM/x64) and macOS (ARM/x64). Native CarPlay as well as Android Auto implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 521,
-    "updated_at": "2026-08-03T10:49:17Z"
+    "stargazers_count": 529,
+    "updated_at": "2026-08-06T16:22:49Z"
   },
   {
     "name": "esphome-tylo",
@@ -73,7 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-07-30T21:29:17Z"
+    "updated_at": "2026-08-03T15:22:22Z"
   },
   {
     "name": "miele-m636ec",

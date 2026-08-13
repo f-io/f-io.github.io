@@ -4,11 +4,11 @@
     "full_name": "f-io/LIVI",
     "html_url": "https://github.com/f-io/LIVI",
     "homepage": "https://f-io.github.io/LIVI/",
-    "description": "CarPlay & Android Auto head unit for Linux (ARM/x64) and macOS (ARM/x64). Native CarPlay as well as Android Auto implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.",
+    "description": "Native CarPlay & Android Auto head unit for Linux (ARM/x64) & macOS (ARM/x64). Multi-session wired + wireless projection, zero-copy hardware video decoding, low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 541,
-    "updated_at": "2026-08-10T12:46:37Z"
+    "stargazers_count": 553,
+    "updated_at": "2026-08-13T13:46:18Z"
   },
   {
     "name": "esphome-tylo",
@@ -21,8 +21,8 @@
       "IoT",
       "RS485"
     ],
-    "stargazers_count": 23,
-    "updated_at": "2026-04-15T11:30:55Z"
+    "stargazers_count": 24,
+    "updated_at": "2026-08-11T11:13:14Z"
   },
   {
     "name": "dspCore",
@@ -73,7 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-08-08T10:11:30Z"
+    "updated_at": "2026-08-10T13:45:02Z"
   },
   {
     "name": "miele-m636ec",

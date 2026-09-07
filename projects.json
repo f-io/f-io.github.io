@@ -7,8 +7,8 @@
     "description": "Native CarPlay & Android Auto head unit for Linux (ARM/x64) & macOS (ARM/x64). Multi-session wired + wireless projection, zero-copy hardware video decoding, low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 647,
-    "updated_at": "2026-08-31T18:54:03Z"
+    "stargazers_count": 674,
+    "updated_at": "2026-09-07T17:41:58Z"
   },
   {
     "name": "esphome-tylo",
@@ -36,7 +36,7 @@
       "DSP"
     ],
     "stargazers_count": 17,
-    "updated_at": "2026-08-31T06:41:24Z"
+    "updated_at": "2026-09-01T01:12:02Z"
   },
   {
     "name": "RUTX-SSL",
@@ -73,7 +73,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-08-24T13:15:55Z"
+    "updated_at": "2026-08-31T19:08:38Z"
   },
   {
     "name": "miele-m636ec",

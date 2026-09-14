@@ -7,8 +7,8 @@
     "description": "Native CarPlay & Android Auto head unit for Linux (ARM/x64) & macOS (ARM/x64). Multi-session wired + wireless projection, zero-copy hardware video decoding, low-latency audio.",
     "language": "TypeScript",
     "types": [],
-    "stargazers_count": 674,
-    "updated_at": "2026-09-07T17:41:58Z"
+    "stargazers_count": 707,
+    "updated_at": "2026-09-14T14:56:29Z"
   },
   {
     "name": "esphome-tylo",
@@ -65,6 +65,19 @@
     "updated_at": "2026-07-29T15:15:52Z"
   },
   {
+    "name": "ZY-ZHPS01-mmWave-sensor",
+    "full_name": "f-io/ZY-ZHPS01-mmWave-sensor",
+    "html_url": "https://github.com/f-io/ZY-ZHPS01-mmWave-sensor",
+    "homepage": "",
+    "description": "ZY-ZHPS01 5.8 GHz mmWave sensor with upgraded ESP32 hardware, flashed with Tasmota firmware for enhanced functionality",
+    "language": null,
+    "types": [
+      "IoT"
+    ],
+    "stargazers_count": 1,
+    "updated_at": "2026-09-08T03:16:00Z"
+  },
+  {
     "name": "f-io.github.io",
     "full_name": "f-io/f-io.github.io",
     "html_url": "https://github.com/f-io/f-io.github.io",
@@ -73,7 +86,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-08-31T19:08:38Z"
+    "updated_at": "2026-09-07T17:45:03Z"
   },
   {
     "name": "miele-m636ec",
@@ -115,18 +128,5 @@
     ],
     "stargazers_count": 0,
     "updated_at": "2025-12-15T13:37:05Z"
-  },
-  {
-    "name": "ZY-ZHPS01-mmWave-sensor",
-    "full_name": "f-io/ZY-ZHPS01-mmWave-sensor",
-    "html_url": "https://github.com/f-io/ZY-ZHPS01-mmWave-sensor",
-    "homepage": "",
-    "description": "ZY-ZHPS01 5.8 GHz mmWave sensor with upgraded ESP32 hardware, flashed with Tasmota firmware for enhanced functionality",
-    "language": null,
-    "types": [
-      "IoT"
-    ],
-    "stargazers_count": 0,
-    "updated_at": "2025-12-15T13:31:48Z"
   }
 ]

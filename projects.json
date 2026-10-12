@@ -5,10 +5,10 @@
     "html_url": "https://github.com/f-io/LIVI",
     "homepage": "https://f-io.github.io/LIVI/",
     "description": "Native CarPlay & Android Auto head unit for Linux (ARM/x64) & macOS (ARM/x64). Multi-session wired + wireless projection, zero-copy hardware video decoding, low-latency audio.",
-    "language": "TypeScript",
+    "language": "Rust",
     "types": [],
-    "stargazers_count": 848,
-    "updated_at": "2026-10-05T19:21:40Z"
+    "stargazers_count": 891,
+    "updated_at": "2026-10-12T19:04:45Z"
   },
   {
     "name": "esphome-tylo",
@@ -86,7 +86,18 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-09-28T19:40:41Z"
+    "updated_at": "2026-10-05T20:39:25Z"
+  },
+  {
+    "name": "mbp-flicker-fix",
+    "full_name": "f-io/mbp-flicker-fix",
+    "html_url": "https://github.com/f-io/mbp-flicker-fix",
+    "homepage": "",
+    "description": "Fix for a flickering touchbar",
+    "language": "Objective-C",
+    "types": [],
+    "stargazers_count": 0,
+    "updated_at": "2026-10-08T15:23:19Z"
   },
   {
     "name": "miele-m636ec",

@@ -7,8 +7,8 @@
     "description": "Native CarPlay Ultra & Android Auto head unit for Linux and macOS, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.",
     "language": "Rust",
     "types": [],
-    "stargazers_count": 989,
-    "updated_at": "2026-10-28T13:14:40Z"
+    "stargazers_count": 1001,
+    "updated_at": "2026-10-29T16:38:27Z"
   },
   {
     "name": "esphome-tylo",
@@ -97,7 +97,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-10-26T18:40:32Z"
+    "updated_at": "2026-10-28T13:21:22Z"
   },
   {
     "name": "miele-m636ec",

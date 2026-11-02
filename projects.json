@@ -7,8 +7,8 @@
     "description": "Native CarPlay Ultra & Android Auto head unit for Linux and macOS, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.",
     "language": "Rust",
     "types": [],
-    "stargazers_count": 1001,
-    "updated_at": "2026-10-29T16:38:27Z"
+    "stargazers_count": 1031,
+    "updated_at": "2026-11-02T21:12:11Z"
   },
   {
     "name": "esphome-tylo",
@@ -52,6 +52,17 @@
     "updated_at": "2026-07-29T15:24:56Z"
   },
   {
+    "name": "mbp-flicker-fix",
+    "full_name": "f-io/mbp-flicker-fix",
+    "html_url": "https://github.com/f-io/mbp-flicker-fix",
+    "homepage": "",
+    "description": "Fix for a flickering touchbar",
+    "language": "Objective-C",
+    "types": [],
+    "stargazers_count": 2,
+    "updated_at": "2026-11-01T18:07:47Z"
+  },
+  {
     "name": "RUTX-GPS",
     "full_name": "f-io/RUTX-GPS",
     "html_url": "https://github.com/f-io/RUTX-GPS",
@@ -63,17 +74,6 @@
     ],
     "stargazers_count": 2,
     "updated_at": "2026-07-29T15:15:52Z"
-  },
-  {
-    "name": "mbp-flicker-fix",
-    "full_name": "f-io/mbp-flicker-fix",
-    "html_url": "https://github.com/f-io/mbp-flicker-fix",
-    "homepage": "",
-    "description": "Fix for a flickering touchbar",
-    "language": "Objective-C",
-    "types": [],
-    "stargazers_count": 1,
-    "updated_at": "2026-10-14T21:28:26Z"
   },
   {
     "name": "ZY-ZHPS01-mmWave-sensor",
@@ -97,7 +97,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-10-28T13:21:22Z"
+    "updated_at": "2026-10-29T17:21:44Z"
   },
   {
     "name": "miele-m636ec",

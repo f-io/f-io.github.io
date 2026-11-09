@@ -4,11 +4,11 @@
     "full_name": "f-io/LIVI",
     "html_url": "https://github.com/f-io/LIVI",
     "homepage": "https://f-io.github.io/LIVI/",
-    "description": "Native CarPlay Ultra & Android Auto head unit for Linux and macOS, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.",
+    "description": "Native CarPlay Ultra & Android Auto head unit for Linux, macOS and Android, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.",
     "language": "Rust",
     "types": [],
-    "stargazers_count": 1031,
-    "updated_at": "2026-11-02T21:12:11Z"
+    "stargazers_count": 1096,
+    "updated_at": "2026-11-09T22:17:43Z"
   },
   {
     "name": "esphome-tylo",
@@ -97,7 +97,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-10-29T17:21:44Z"
+    "updated_at": "2026-11-02T21:42:12Z"
   },
   {
     "name": "miele-m636ec",

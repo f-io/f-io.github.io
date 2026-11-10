@@ -7,8 +7,8 @@
     "description": "Native CarPlay Ultra & Android Auto head unit for Linux, macOS and Android, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.",
     "language": "Rust",
     "types": [],
-    "stargazers_count": 1096,
-    "updated_at": "2026-11-09T22:17:43Z"
+    "stargazers_count": 1102,
+    "updated_at": "2026-11-10T15:17:39Z"
   },
   {
     "name": "esphome-tylo",
@@ -35,8 +35,8 @@
       "PCB",
       "DSP"
     ],
-    "stargazers_count": 19,
-    "updated_at": "2026-10-26T20:10:18Z"
+    "stargazers_count": 20,
+    "updated_at": "2026-11-10T13:08:02Z"
   },
   {
     "name": "RUTX-SSL",
@@ -76,6 +76,19 @@
     "updated_at": "2026-07-29T15:15:52Z"
   },
   {
+    "name": "RUTX-DYNDNS-HETZNER",
+    "full_name": "f-io/RUTX-DYNDNS-HETZNER",
+    "html_url": "https://github.com/f-io/RUTX-DYNDNS-HETZNER",
+    "homepage": "",
+    "description": "Script for using Hetzner as a DynDNS service on Teltonika (OpenWrt) devices",
+    "language": "Shell",
+    "types": [
+      "OpenWrt"
+    ],
+    "stargazers_count": 1,
+    "updated_at": "2026-11-10T13:38:30Z"
+  },
+  {
     "name": "ZY-ZHPS01-mmWave-sensor",
     "full_name": "f-io/ZY-ZHPS01-mmWave-sensor",
     "html_url": "https://github.com/f-io/ZY-ZHPS01-mmWave-sensor",
@@ -97,7 +110,7 @@
     "language": "JavaScript",
     "types": [],
     "stargazers_count": 0,
-    "updated_at": "2026-11-02T21:42:12Z"
+    "updated_at": "2026-11-09T22:21:19Z"
   },
   {
     "name": "miele-m636ec",
@@ -111,19 +124,6 @@
     ],
     "stargazers_count": 0,
     "updated_at": "2025-12-15T13:34:11Z"
-  },
-  {
-    "name": "RUTX-DYNDNS-HETZNER",
-    "full_name": "f-io/RUTX-DYNDNS-HETZNER",
-    "html_url": "https://github.com/f-io/RUTX-DYNDNS-HETZNER",
-    "homepage": "",
-    "description": "Script for using Hetzner as a DynDNS service on Teltonika (OpenWrt) devices",
-    "language": "Shell",
-    "types": [
-      "OpenWrt"
-    ],
-    "stargazers_count": 0,
-    "updated_at": "2026-07-29T19:54:46Z"
   },
   {
     "name": "wago-879-modbus-telegraf",

@@ -9,7 +9,8 @@ async function main() {
 
     grid.innerHTML = projects
       .map((p) => {
-        const stars = (p.stargazers_count ?? 0).toLocaleString('en-US');
+        const count = p.stargazers_count ?? 0;
+        const stars = count < 1000 ? String(count) : `${(count / 1000).toFixed(1).replace(/\.0$/, '')}k`;
         const desc = (p.description ?? '').replace(/</g, '&lt;');
 
         const language = typeof p.language === 'string' ? p.language.trim() : '';

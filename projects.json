@@ -7,8 +7,8 @@
     "description": "CarPlay Ultra & Android Auto head unit for Linux, macOS and Android, built in Rust + Slint. Multi-session wired + wireless, zero-copy hardware video, low-latency audio.",
     "language": "Rust",
     "types": [],
-    "stargazers_count": 1169,
-    "updated_at": "2026-11-16T21:48:48Z"
+    "stargazers_count": 1205,
+    "updated_at": "2026-11-23T20:29:32Z"
   },
   {
     "name": "esphome-tylo",
